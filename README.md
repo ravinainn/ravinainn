@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @ravinainn
-- 👀 I’m interested in problem solving
-- 🌱 I’m currently learning data structure and algorithm using c++ 
+- 👀 I’m interested in Web Development
+- 🌱 I’m currently learning JavaScript and React
 - 💞️ I’m looking to collaborate on C++ language
-- 📫 How to reach me nain.ravi12345@gmail.com
+- 📫 How to reach me raviinainn@gmail.com
 
 <!---
 ravinainn/ravinainn is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
